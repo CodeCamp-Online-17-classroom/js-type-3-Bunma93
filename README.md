@@ -9,3 +9,4 @@ let a = undefined;
 let b = ' ';
 let c = !b;
 ```
+- ปฏิพงษศกร บุญมา (เจมส์)
